@@ -1,0 +1,16 @@
+.grow{
+flex-grow: 1;
+}
+.sectionDesktop{
+margin: 15px;
+}
+.table{
+    max-width: 650;
+}
+.root{
+    max-width: 255px;
+    margin: 25px;
+}
+.arrowIcon{
+    padding: 20px;
+}
